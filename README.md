@@ -6,4 +6,4 @@ Todas foram tiradas do freepik. Foram alteradas após o download por causa do pr
 
 # Deploy
 
-<p>O deploy do projeto se encontra no link: <a href="https://imagens-urls.vercel.app/"</a></p>
+<p>O deploy do projeto se encontra no link: <a href="https://imagens-urls.vercel.app/">Imagens</a></p>
